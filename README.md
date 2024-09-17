@@ -21,6 +21,6 @@
 
 ## Contributors
 
-[![Contributors](https://img.shields.io/github/contributors/<ditt_användarnamn>/<ditt_repository>)](https://github.com/<ditt_användarnamn>/<ditt_repository>/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/<HugoPersson01>/<Project-Course-2-KTH-Digital-Training-Equipment>)](https://github.com/<HugoPersson01>/<Project-Course-2-KTH-Digital-Training-Equipment>/graphs/contributors)
 
 
