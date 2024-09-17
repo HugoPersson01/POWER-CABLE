@@ -31,6 +31,18 @@
   <img src="https://avatars.githubusercontent.com/Adamfabricius" width="100" height="100" style="border-radius:50%" alt="Adamfabricius"/>
 </a>
 
+<a href="https://github.com/linneaed">
+  <img src="https://avatars.githubusercontent.com/linneaed" width="100" height="100" style="border-radius:50%" alt="linneaed"/>
+</a>
+
+<a href="https://github.com/Caspar-Alhadeff">
+  <img src="https://avatars.githubusercontent.com/Caspar-Alhadeff" width="100" height="100" style="border-radius:50%" alt="Caspar-Alhadeff"/>
+</a>
+
+<a href="https://github.com/Melissayasar">
+  <img src="https://avatars.githubusercontent.com/Melissayasar" width="100" height="100" style="border-radius:50%" alt="Melissayasar"/>
+</a>
+
 
 
 
