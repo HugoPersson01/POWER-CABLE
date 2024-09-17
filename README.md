@@ -21,6 +21,15 @@
 
 ## Contributors
 
-[![Contributors](https://img.shields.io/github/contributors/<HugoPersson01>/<Project-Course-2-KTH-Digital-Training-Equipment>)](https://github.com/<HugoPersson01>/<Project-Course-2-KTH-Digital-Training-Equipment>/graphs/contributors)
+## Contributors
+
+<a href="https://github.com/HugoPersson01">
+  <img src="https://avatars.githubusercontent.com/HugoPersson01" width="100" height="100" style="border-radius:50%" alt="HugoPersson01"/>
+</a>
+
+<a href="https://github.com/AdamFabricius">
+  <img src="https://avatars.githubusercontent.com/Adamfabricius" width="100" height="100" style="border-radius:50%" alt="Adamfabricius"/>
+</a>
+
 
 
