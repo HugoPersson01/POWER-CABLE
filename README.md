@@ -21,3 +21,6 @@
 
 ## Contributors
 
+[![Contributors](https://img.shields.io/github/contributors/<ditt_användarnamn>/<ditt_repository>)](https://github.com/<ditt_användarnamn>/<ditt_repository>/graphs/contributors)
+
+
