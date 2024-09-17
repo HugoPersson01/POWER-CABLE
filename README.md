@@ -21,28 +21,8 @@
 
 ## Contributors
 
-## Contributors
-
-<a href="https://github.com/HugoPersson01">
-  <img src="https://avatars.githubusercontent.com/HugoPersson01" width="100" height="100" style="border-radius:50%" alt="HugoPersson01"/>
+<a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
-
-<a href="https://github.com/AdamFabricius">
-  <img src="https://avatars.githubusercontent.com/Adamfabricius" width="100" height="100" style="border-radius:50%" alt="Adamfabricius"/>
-</a>
-
-<a href="https://github.com/linneaed">
-  <img src="https://avatars.githubusercontent.com/linneaed" width="100" height="100" style="border-radius:50%" alt="linneaed"/>
-</a>
-
-<a href="https://github.com/Caspar-Alhadeff">
-  <img src="https://avatars.githubusercontent.com/Caspar-Alhadeff" width="100" height="100" style="border-radius:50%" alt="Caspar-Alhadeff"/>
-</a>
-
-<a href="https://github.com/Melissayasar">
-  <img src="https://avatars.githubusercontent.com/Melissayasar" width="100" height="100" style="border-radius:50%" alt="Melissayasar"/>
-</a>
-
-
 
 
