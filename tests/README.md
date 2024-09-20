@@ -11,9 +11,9 @@
 > - En gif för Linear-funktion.
 
 ## Bilden visar hur vår User Interface ser ut
-<p float="left">
+<p float="display: flex; align-items: flex-start;">
   <img src="https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif" width="550" />
-  <span style = "margin-left": 10 xp;"> 
+  <span style = "margin-left": 20 xp;"> 
     - Här är en Gif på hur våran User interface fungerar
   </span>
 </p>
