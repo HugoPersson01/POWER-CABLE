@@ -10,7 +10,8 @@
 > lägg in bild hur GUI ser ut när det körs
 
 
-![perfect-loop-cube](https://github.com/user-attachments/assets/c56ddde1-fa4f-4886-80c4-147ab2e72057)
+<img src="https://github.com/user-attachments/assets/c56ddde1-fa4f-4886-80c4-147ab2e72057" width="300" height="300" />
+
 
 
 ## Pricing
