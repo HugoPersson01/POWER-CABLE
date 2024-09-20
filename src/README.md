@@ -13,7 +13,8 @@
 > - This file contains the program that is used to controll the machine and the user interface is NOT implemented in this code.
 
 
-
 ## User interface how to use
 > lägg in bild hur GUI ser ut när det körs
 
+## How the code works
+> waiting for linked document
