@@ -10,10 +10,9 @@
 > - En gif för Sinus-funktion.
 > - En gif för Linear-funktion.
 
-## Step by Step
-> bild 1 visar en snabb körning av vårat interface:
+## Bilden visar hur vår User Interface ser ut
 <div align="center">
   <img src="https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif" width="550" />
 </div>
-> bild 2 visar...
+
 
