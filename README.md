@@ -47,7 +47,7 @@
   <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
 
-[Back to Top](#This project)
+[Back to Top](#(This project))
 
 
 
