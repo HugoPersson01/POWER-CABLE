@@ -38,6 +38,8 @@
 ## Lean canvas
 ![Image](https://github.com/user-attachments/assets/80127c9e-17d7-412f-a379-abc8f2e61ad0)
 
+<img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/363651929-80127c9e-17d7-412f-a379-abc8f2e61ad0.jpg" widht=400 height=400/>
+
 
 
 
