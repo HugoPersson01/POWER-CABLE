@@ -11,9 +11,3 @@
 
 ## pricing (temp)
 > köplista, med länkar?
-
-## Contributors
-
-<a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
-</a>
