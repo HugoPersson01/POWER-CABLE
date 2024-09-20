@@ -12,6 +12,6 @@
 
 ## Bild 1 för visning av user interface
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif" width="550" />
 </div>
 
