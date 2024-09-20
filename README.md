@@ -46,10 +46,13 @@
   <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
 
-[Back to Top](#This-project)
 
 
-[![Back to](https://img.shields.io/back-to-top-green-red/http/shields.io.svg)](#this-project)
+
+<div align="right">
+
+[Back To Top ⬆️](#This-project)
+</div>
 
 
 
