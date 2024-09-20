@@ -11,6 +11,6 @@
 > - En gif för Linear-funktion.
 
 ## Bilden visar hur vår User Interface ser ut
-| ![GIF](https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif) | <ul><li>Här är en Gif på hur våran User interface fungerar</li><li>Punkt 2 </li><li>Punkt 3 </li> </ul> |
+| ![GIF](https://raw.githubusercontent.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/main/pictures/test2.gif) | <ul><li>Här är en Gif på hur våran User interface fungerar</li><li> Det gäller att börja med att kalibrera maskinen innan du börjar ändra vikter mm </li><li> se till att alltid ställa in en låg vikt om du ska ändra längden på snöret </li> </ul> |
 |---|---|
 
