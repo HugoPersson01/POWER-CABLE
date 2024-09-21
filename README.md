@@ -13,6 +13,10 @@
 <img src="https://github.com/user-attachments/assets/c56ddde1-fa4f-4886-80c4-147ab2e72057" width="300" height="300" />
 
 
+### .
+> Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
+
+
 
 ## Pricing 
 ### [Odrive S1](https://eu.odriverobotics.com/shop/odrive-s1) (Power pads: Screw terminals)
