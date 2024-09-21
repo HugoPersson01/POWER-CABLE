@@ -15,6 +15,7 @@
 
 ### .
 > Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
+> Kanske göra det till en gif så att den kan visas direkt i våran read me?
 
 
 
