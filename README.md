@@ -3,8 +3,11 @@
 
 
 ## Shared drive (temp)
-> [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1GKdPG60LBvru-e2fMha9NIqRZFCKdvjO)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1GKdPG60LBvru-e2fMha9NIqRZFCKdvjO)
 
+<a href="https://app.diagrams.net/">
+  <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/Draw-io-button.PNG" alt="Draw-io" width="99" height="20">
+</a>
 
 ## User interface
 > lägg in bild hur GUI ser ut när det körs
