@@ -102,7 +102,7 @@ def update_graphs(time):
     dpg.fit_axis_data("x_axis")
     dpg.set_axis_limits_auto("x_axis")
 
-# Håll reda på hur många loggfiler som redan finns
+# Keep track of amount of current log files
 def get_logfile_name():
     base_name = "motor_data_log"
     extension = ".csv"
@@ -119,7 +119,7 @@ def start_recording():
     if logging:
         print("Start recording...")
         log_file = open(get_logfile_name(), "w")
-        log_file.write("Time;Position;Applied_Force\n")  # CSV header
+        log_file.write("Time (s);Position;Applied Force (kg)\n")  # CSV header
         dpg.set_item_label("start_recording_button", "Stop Recording")
     else:
         print("Stop recording...")
@@ -137,11 +137,24 @@ def log_data():
         log_file.write("Time (s);Position;Applied Force (kg)\n")  # CSV header
 
     # Log current time, position, and applied force
-    elapsed_time = time.time() - start_time # typ 30s
+    elapsed_time = time.time() - start_time
     position = get_current_position()
     applied_force = get_current_force()
-    log_file.write(f"{elapsed_time:.2f};{position};{applied_force:.4f}\n")
+    log_file.write(f"{elapsed_time:.2f};{position};{applied_force:.4f}\n".replace('.', ',')) # Suitable for Excell
 
+
+def calculate_K():
+    start_value = dpg.get_value("Start_value")
+    stop_value = dpg.get_value("Stop_value")
+    max_time = dpg.get_value("Max_Time")
+    # calcuate K
+    K = (stop_value - start_value) / max_time
+    return K
+
+def run_linear_function(linear_time, Start_value, Max_Time):
+    if (linear_time <= Max_Time):
+        motor.axis1.motor.config.current_lim = (((calculate_K() * linear_time) + Start_value) * kg_to_current)    
+    
 def move_increment_positive():
     increment = dpg.get_value("move_increment")
     move_increment(increment)
@@ -274,6 +287,7 @@ dpg.setup_dearpygui()
 dpg.show_viewport()
 
 last_time = 0.0
+
 while(dpg.is_dearpygui_running()):
 
     current_time = time.time()
@@ -299,12 +313,17 @@ while(dpg.is_dearpygui_running()):
 
     #Linear window functions
     Max_Time = dpg.get_value("Max_Time")
-    Start_value = dpg.get_value("Max_Time")
-    Stop_value = dpg.get_value("Max_Time")
+    Start_value = dpg.get_value("Start_value")
+    Stop_value = dpg.get_value("Stop_value")
+
+    if dpg.get_value("Linear_check") and motor != None and Max_Time < 40 and Start_value >= 0 and Stop_value <=40 and calculate_K() <= 1: # Möjligtvis max K-värde, kanske 1?
 
 
+        linear_time = time.time() - start_time
 
-    
+        run_linear_function(linear_time, Start_value, Max_Time)
+        linear_time = time.time() - start_time
+
 
     if(motor == None):
         try:
