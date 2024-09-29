@@ -15,6 +15,8 @@
   <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/sketchfab.png" alt="Sketchfab" width="100" height = "100">
 </a>
 
+> NB! Sketchfab is a website used for uploading 3D renderings for other people to se.
+
 ## User Interface
 > Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
 > Kanske göra det till en gif så att den kan visas direkt i våran read me?
