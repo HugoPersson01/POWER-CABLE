@@ -10,13 +10,13 @@
 </a>
 
 ## User interface
-> lägg in bild hur GUI ser ut när det körs
+> Press the Sketchfab logo bellow to se a 3D rendering of our product!
+<a href = "https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99">
+  <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/sketchfab.png" alt="Sketchfab" width="100" height = "100">
+</a>
 
 
-[![View 3D Model](https://static.sketchfab.com/press/logos/banner-sketchfab-view-3d-models.png)](https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99)
-
-
-### .
+### 
 > Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
 > Kanske göra det till en gif så att den kan visas direkt i våran read me?
 
