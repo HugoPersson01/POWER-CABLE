@@ -13,7 +13,7 @@
 > lägg in bild hur GUI ser ut när det körs
 
 
-[View a 3D model of our product on Sketchfab](https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99)
+[![View 3D Model](https://static.sketchfab.com/press/logos/banner-sketchfab-view-3d-models.png)](https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99)
 
 
 ### .
