@@ -13,7 +13,7 @@
 > lägg in bild hur GUI ser ut när det körs
 
 
-<img src="https://github.com/user-attachments/assets/c56ddde1-fa4f-4886-80c4-147ab2e72057" width="300" height="300" />
+[View a 3D model of our product on Sketchfab](https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99)
 
 
 ### .
