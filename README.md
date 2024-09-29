@@ -9,14 +9,13 @@
   <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/Draw-io-button.PNG" alt="Draw-io" width="99" height="20">
 </a>
 
-## User interface
+## 3D rendering
 > Press the Sketchfab logo bellow to se a 3D rendering of our product!
 <a href = "https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99">
   <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/sketchfab.png" alt="Sketchfab" width="100" height = "100">
 </a>
 
-
-### 
+## User Interface
 > Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
 > Kanske göra det till en gif så att den kan visas direkt i våran read me?
 
