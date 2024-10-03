@@ -1,40 +1,4 @@
 <!DOCTYPE html>
-<html lang="sv">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif; /* Ändrar typsnittet till Roboto */
-            color: green; /* Gör texten grön */
-        }
-    </style>
-    <title>Hej Hugo</title>
-</head>
-<body>
-    <h1>Hej Hugo, jag heter Adam</h1>
-</body>
-</html>
-
-# My Project
-
-Welcome to my project! Here's an image:
-
-<img src="https://example.com/image.png" alt="My Image" width="300"/>
-
-<strong>Features:</strong>
-<ul>
-
-    
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-</ul>
-
-For more details, visit <a href="https://github.com">GitHub</a
-
-
-                                                               <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -112,5 +76,3 @@ For more details, visit <a href="https://github.com">GitHub</a
 
 </body>
 </html>
-
-
