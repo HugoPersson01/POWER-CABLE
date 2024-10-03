@@ -1,4 +1,4 @@
-![Färgruta med text](https://raw.githubusercontent.com/HugoPersson01/POWER-CABLE/main/pictures/NAMN.png)
+![Färgruta med text](https://raw.githubusercontent.com/HugoPersson01/POWER-CABLE/main/pictures/3Dmodel.png)
 
 
 
