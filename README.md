@@ -1,4 +1,13 @@
-![Your text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Skärmavbild%202024-10-03%20kl.%2016.29.32.png800x200/00FFF0/000000?text=adam+Text+Here)
+<div style="position: relative; display: inline-block;">
+
+    <img src="URL_TILL_DIN_BILD" alt="Bildbeskrivning" style="width: 100%; height: auto;" />
+
+    <div style="position: absolute; top: 20px; left: 20px; color: white; font-size: 24px; background-color: rgba(0, 0, 0, 0.5); padding: 5px;">
+        Din text här
+    </div>
+
+</div>
+
 
 
 # POWER CABLE
