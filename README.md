@@ -3,7 +3,17 @@
 
 # POWER CABLE
 > 
-> In this project we have built a resistance mechanism using a small engine, which functions as a weight in a cable machine. Our primary task is to validate the accuracy of the weight to ensure it performs correctly.
+> In this project we have built a resistance mechanism using a small engine, which functions as a weight in a cable machine.
+> Our primary task is to validate the accuracy of the weight to ensure it performs correctly.
+>
+> 
+## 3D rendering
+> Press the Sketchfab logo bellow to se a 3D rendering of our product!
+<a href = "https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99">
+  <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/sketchfab.png" alt="Sketchfab" width="100" height = "100">
+</a>
+
+> NB! Sketchfab is a website used for uploading 3D renderings for other people to se.
 > 
 > Länka rapport, beskrivning av hur maskinen fungerar (howto), kanske en map för hardware och software i en map.
 > kanske skriva korta beskrivningar av våra viktiga dokument (validering, halftime paper mm och sedan länka till de hela dokumenten som ligger i docs mappen)
