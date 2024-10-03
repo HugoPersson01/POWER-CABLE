@@ -1,0 +1,4 @@
+title: Project-Course2-KTH-Digital-Training-Equipment
+description: hello world
+gem "github-pages", group: :jekyll_plugins
+
