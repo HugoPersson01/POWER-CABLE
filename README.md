@@ -1,6 +1,7 @@
 # POWER CABLE
-> Describe the project
+> 
 > In this project we have built a resistance mechanism using a small engine, which functions as a weight in a cable machine. Our primary task is to validate the accuracy of the weight to ensure it performs correctly.
+> 
 > Länka rapport, beskrivning av hur maskinen fungerar (howto), kanske en map för hardware och software i en map.
 > kanske skriva korta beskrivningar av våra viktiga dokument (validering, halftime paper mm och sedan länka till de hela dokumenten som ligger i docs mappen)
 
