@@ -1,4 +1,4 @@
-# This project  TODO BYT NAMN HÄR
+# POWER CABLE
 > Describe the project
 > Länka rapport, beskrivning av hur maskinen fungerar (howto), kanske en map för hardware och software i en map.
 > kanske skriva korta beskrivningar av våra viktiga dokument (validering, halftime paper mm och sedan länka till de hela dokumenten som ligger i docs mappen)
