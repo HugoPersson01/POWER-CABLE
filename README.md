@@ -18,7 +18,6 @@
 </a>
 
 > NB! Sketchfab is a website used for uploading 3D renderings for other people to se.
-> > > > NB!? är det typ en TODO
 
 ## User Interface
 > Möjligtvis en länkad video eller något som visar när maskinen körs typ, lite oliak rörelser eller något?
