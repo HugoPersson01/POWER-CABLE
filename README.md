@@ -1,3 +1,5 @@
+![Färgruta med text](https://raw.githubusercontent.com/HugoPersson01/POWER-CABLE/main/pictures/NAMN.png)
+
 
 
 # POWER CABLE
