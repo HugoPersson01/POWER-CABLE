@@ -1,3 +1,6 @@
+![Your text](https://via.placeholder.com/800x200/00FF00/000000?text=Your+Text+Here)
+
+
 # POWER CABLE
 > 
 > In this project we have built a resistance mechanism using a small engine, which functions as a weight in a cable machine. Our primary task is to validate the accuracy of the weight to ensure it performs correctly.
