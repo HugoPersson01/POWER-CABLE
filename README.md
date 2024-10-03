@@ -1,4 +1,4 @@
-![Your text](https://via.placeholder.com/800x200/00FFF0/000000?text=adam+Text+Here)
+![Your text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Skärmavbild%202024-10-03%20kl.%2016.29.32.png800x200/00FFF0/000000?text=adam+Text+Here)
 
 
 # POWER CABLE
