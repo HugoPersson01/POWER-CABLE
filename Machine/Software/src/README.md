@@ -1,19 +1,9 @@
-# My Awesome Project
+## The files
+### NotoSerifCJKjp-Medium.otf
+> - This file contains the font that is used in the user interface.
 
-Welcome to **My Awesome Project**! This project is designed to help you manage your tasks efficiently.
+### forcething.py
+> - This file contains the program that is used to controll the machine and the user interface is implemented in this code.
 
-## Features
-
-- 🌟 **User-friendly Interface**: Easy to navigate and use.
-- ✅ **Task Management**: Add, edit, and delete tasks with ease.
-- 🔔 **Notifications**: Get reminders for upcoming deadlines.
-- 📊 **Analytics**: View your productivity stats.
-- 🎨 **Custom Themes**: Change the appearance to suit your style.
-
-## Installation
-
-To get started with the project, follow these simple steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/my-awesome-project.git
+### nogui.py
+> - This file contains the program that is used to controll the machine and the user interface is NOT implemented in this code.
