@@ -1,13 +1,3 @@
-<div style="position: relative; display: inline-block;">
-
-    <img src="URL_TILL_DIN_BILD" alt="Bildbeskrivning" style="width: 100%; height: auto;" />
-
-    <div style="position: absolute; top: 20px; left: 20px; color: white; font-size: 24px; background-color: rgba(0, 0, 0, 0.5); padding: 5px;">
-        Din text här
-    </div>
-
-</div>
-
 
 
 # POWER CABLE
