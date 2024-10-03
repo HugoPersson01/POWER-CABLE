@@ -1,3 +1,3 @@
-# This projects source code  TA BORT DENNA MAP SEN
+# This projects source code
 > Describe what the diffrent files contains
 
