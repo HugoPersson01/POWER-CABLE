@@ -10,7 +10,7 @@
 | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate.png" alt="My Image" width="450" height="300"/>       | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate-In-Progress.png" alt="My Image" width="450" height="300"/>  |
 >
 > You calibrate the machine by pressing the "calibrate button" shown in the left picture.
-> When the calibration is in progress the machine will start rotating inwards and then outwards,
+> When the calibration is in progress the motor will start rotating inwards and then outwards,
 > you can see this in the right picture. Notis the red line going down and then up again, which translates
 > to the inward and outward movement of the cord.
 >
