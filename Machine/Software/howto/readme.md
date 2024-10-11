@@ -1,6 +1,5 @@
 # How to use the UserInterface that is implemented in our code:
-> ### This file will explain how to use the UserInterface. Good to know before reading:
-> ##### In the pictures that will be shown bellow "buttons" and "checkboxes" that is used in the part im explaining will be highlighted in a light blue color.
+> ##### In the pictures that will be shown bellow "buttons" and "checkboxes" that is used in the part im explaining will be highlighted in a light blue color to show what buttons to press to 
 ## Step 1: "Start the program"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/>
 >
