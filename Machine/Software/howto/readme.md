@@ -20,7 +20,7 @@
 > The blue line represents the current weight the motor is applying. These two lines will give the user realtime information no other
 > training equpment shows.
 
-## Step 3: "Clear errors"
+## Step 2.1: "Clear errors"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Clear-Errors.png" alt="My Image" width="450" height="300"/>
 >
 > If you calibrate the machine and notis that the calibration didnt go all the way through we will need to clear the errors and start the calibration process again. There could be several reasons why the calibration did'nt go through:
@@ -30,5 +30,9 @@
 > 
 > After doing these controlls press "clear all errors" shown in the picture above and do step 2 over again. 
 
+## Step 4: "Turn-on/off"
+> <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Turn-On.png" alt="My Image" width="450" height="300"/>
+>
+> You can turn the machine on and off when ever you want, you will nedd to turn it on after you have calibrtated the machine. When you press the "turn on/off" button it will toggle between being on and off. You can easily see if the machine is on or off by looking at the blue line. The picture above shows how it looks when you turn the machine of for the first time, the blue line starts going up and down, if it is flat the machine is off.
 
 
