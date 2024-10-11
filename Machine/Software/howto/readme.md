@@ -51,9 +51,11 @@
 |:---------------------:|
 | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/ChangeDistans.png" alt="My Image" width="450" height="300"/> |
 >
-> 
+> The picture above shows how you can change the reel in/ out distance of the cord. This means how much the cord will reel in/ out every time you press the + or - button, these will be explained bellow. This is the distance I talked about in the step above. So another explination of harm the machine can do on the user is if you reel in the cord, lets say 10 cm, and have a heavy starting weight the motor will pull in the cord with a force of the starting weight and it will also do it fast. This can lead to the user being pulled down with a sudden force leading to injury.
 
 | Reel in the cord | Unreel the cord |
 |:----------------:|:---------------:|
 | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Decrease-cord.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Extend-Cord.png" alt="My Image" width="450" height="300"/> |
+>
+> The left picture shows how you can reel in the cord, the cord will reel in with the amount of cm chosen by the user, as we explained above. The right picture hows how you can do unreel the cord, it works the same way as we just explained but the other way around.
 
