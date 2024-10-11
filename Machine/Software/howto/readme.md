@@ -20,6 +20,15 @@
 > The blue line represents the current weight the motor is applying. These two lines will give the user realtime information no other
 > training equpment shows.
 
+## Step 3: "Clear errors"
+> <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Clear-Errors.png" alt="My Image" width="450" height="300"/>
+>
+> If you calibrate the machine and notis that the calibration didnt go all the way through we will need to clear the errors and start the calibration process again. There could be several reasons why the calibration did'nt go through:
+> + The first fix would be to make sure the cable has more room to move during the calibration progress.
+> + Second fix would be to make sure all cables are well conacted to the encoder.
+> + Third fix would be to close down the program and disconect the powersupply from the wall outlet, and waiting for a few seconds before reconacting the power.
+> 
+> After doing these controlls press "clear all errors" shown in the picture above and do step 2 over again. 
 
 
 
