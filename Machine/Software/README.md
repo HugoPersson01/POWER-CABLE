@@ -1,17 +1,8 @@
-# This projects source code  TA BORT DENNA MAP SEN
-> Describe what the diffrent files contains
+# This projects source code 
 
-
-## The files
-### NotoSerifCJKjp-Medium.otf
-> - This file contains the font that is used in the user interface.
-
-### forcething.py
-> - This file contains the program that is used to controll the machine and the user interface is implemented in this code.
-
-### nogui.py
-> - This file contains the program that is used to controll the machine and the user interface is NOT implemented in this code.
-
+### The folders:
+> + "howto", this folder contains a readme file that describes the whole process of using the implemented UserInterface. Use the guide when using the machine for the first time.
+> + "src", this folder contains all source code you will need to run the machine. You can also find a explination of how the code works and what the diffrent files contains in the src folder.
 
 ## User interface how to use
 <div align = "center" style="border: 2px solid black; display: inline-block; padding: 10px;">
@@ -22,6 +13,3 @@
   <li> Det gäller att börja med att kalibrera maskinen innan du börjar ändra vikter. </li>
   <li> Se till att alltid ställa in en låg vikt om du ska ändra längden på snöret, om detta inte görs kommer maskinen dra in           snöret i en otroligt hög fart vilket kan leda till skador på användaren </li> 
 </ul> 
-
-## How the code works
-> waiting for linked document
