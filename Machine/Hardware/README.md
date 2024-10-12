@@ -1,6 +1,7 @@
-# Power Cable Hardware:
+# Power Cable, Hardware:
 
-### Pricing 
+The following parts are for those who want to build their own machine. These are the components used in Generation 2 of the Power Cable.
+## Pricing:
 #### [Odrive S1](https://eu.odriverobotics.com/shop/odrive-s1) (Power pads: Screw terminals)
 > 149.00€
 
