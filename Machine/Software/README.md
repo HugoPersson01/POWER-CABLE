@@ -1,7 +1,7 @@
 # The software for this project.
 ### The folders:
-> + "howto", this folder contains a readme file that describes the whole process of using the implemented UserInterface. Use the guide when using the machine for the first time.
-> + "src", this folder contains all source code you will need to run the machine. You can also find a explination of how the code works and what the diffrent files contains in the src folder.
+> + "howto", this folder contains a folder with pictures of the UserInterface and a readme file that describes the whole process of using the implemented UserInterface. Use the guide when using the machine for the first time.
+> + "src", this folder contains all source code files you will need to run the machine. You can also find a explination of how the code works.
 
 ## User interface how to use
 <div align = "center" style="border: 2px solid black; display: inline-block; padding: 10px;">
