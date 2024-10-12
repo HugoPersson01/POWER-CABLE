@@ -12,11 +12,11 @@ Our product comprises two main components: hardware and software.
 
 #### Hardware: 
 + Our product utilizes a motor (sourced from a motorized longboard, with future models planned to feature an ODrive motor) that strives to maintain its starting position. The force the motor uses to resist movement is determined by an equation in our Python code. This equation translates the desired weight into the current supplied to the motor. With this technology, users can work against the motor's resistance, allowing for workouts with weights of up to 100 kg without the need to purchase multiple weights.
-  + Read more about our hardware here ➔ [Read more](https://github.com/HugoPersson01/POWER-CABLE/tree/main/Machine/Hardware).
+  + Read more about our hardware here ➔ [Hardware](https://github.com/HugoPersson01/POWER-CABLE/tree/main/Machine/Hardware).
 
 #### Software:
 + To ensure our product functions effectively, we have developed Python code with an intuitive user interface that offers a range of features, including easy weight adjustments, workout recording, and access to various workout programs.
-  + Get access to and learn more about our software here ➔ [Read more](https://github.com/HugoPersson01/POWER-CABLE/tree/main/Machine/Software).
+  + Get access to and learn more about our software here ➔ [Software](https://github.com/HugoPersson01/POWER-CABLE/tree/main/Machine/Software).
 
 ___ 
 
