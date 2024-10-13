@@ -22,7 +22,7 @@ ___
 
 ## Want to know even more?
 
-"In the folder called "docs" you will find our final report, Lean Canvas, and more information about our product as a whole.
+In the folder called "docs" you will find our final report, Lean Canvas, and more information about our product as a whole.
   + Click here to get there ➔ [Documentaions](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
 
 ___ 
