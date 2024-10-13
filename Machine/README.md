@@ -11,3 +11,5 @@ is implemented in our code.
 ___
 ### Looking for other information?
 If you want to read more information about our product as a whole you can find it here ➔ [Documentaions](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
+
+___
