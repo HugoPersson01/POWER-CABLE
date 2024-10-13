@@ -20,15 +20,17 @@ Our product comprises two main components: hardware and software.
 
 ___ 
 
+## Whant to know even more?
+
+In the folder called "docs" you can find our rapport, lean canvas and more information about our product as a whole.
+  + Click here to get there ➔ [Documentaions](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
+
 ### Shared drive (temp)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1GKdPG60LBvru-e2fMha9NIqRZFCKdvjO)
 
 <a href="https://app.diagrams.net/">
   <img src="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/blob/main/pictures/Draw-io-button.PNG" alt="Draw-io" width="99" height="20">
 </a>
-
-### Lean canvas
-![Image](https://github.com/user-attachments/assets/80127c9e-17d7-412f-a379-abc8f2e61ad0)
 
 ___ 
 #### Contributors:
