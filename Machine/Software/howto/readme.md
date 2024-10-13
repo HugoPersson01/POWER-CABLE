@@ -24,13 +24,14 @@ The text includes the following 9 steps:
 
 ___
 
-## Step 1: "Start the program"
+### Step 1: "Start the program"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/>
 >
 > This is how the interface should look after starting the program.
+##
 
 
-## Step 2: "Calibrate the machine"
+### Step 2: "Calibrate the machine"
 > | Calibrate button | Calibrate in progress |
 > |:----------------:|:---------------------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate-In-Progress.png" alt="My Image" width="450" height="300"/> |
@@ -44,9 +45,10 @@ ___
 > If you pull the cord out, the red line will rise, and if you release the cord, the red line will fall.
 > The blue line represents the current weight the motor is applying.
 > These two lines provide real-time information that no other training equipment offers.
+##
 
 
-## Step 3: "Clear errors"
+### Step 3: "Clear errors"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Clear-Errors.png" alt="My Image" width="450" height="300"/>
 >
 > If you calibrate the machine and notice that the calibration did not complete successfully, you will need to clear the errors and restart the calibration process.
@@ -55,18 +57,20 @@ ___
 > + Second fix, check that all cables are properly connected to the encoder, walloutlet or computer. If this also doesn't work try the final step.
 > + Third fix, close the program and disconnect the power supply from the wall outlet. Wait for a few seconds before reconnecting the power.
 > After performing these checks, press "Clear All Errors," as shown in the picture above, and repeat Step 2.
+##
 
 
-## Step 4: "Turn on/off"
+### Step 4: "Turn on/off"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Turn-On.png" alt="My Image" width="450" height="300"/>
 >
 > You can turn the machine on and off whenever you want. You will need to turn it on after you have calibrated the machine.
 > When you press the "turn on/off" button, it will toggle between being on and off.
 > You can easily see if the machine is on or off by looking at the blue line.
 > The picture above shows how it looks when you turn the machine on for the first time: the blue line starts off flat and then begins moving up and down.
+##
 
 
-## Step 5: "Set weight"
+### Step 5: "Set weight"
 > | Chose weight | Set weight |
 > |:------------:|:----------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Pick-Weight.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Set-Weight.png" alt="My Image" width="450" height="300"/> |
@@ -79,9 +83,10 @@ ___
 > + If you change the length of the cord and make it shorter using the implemented functions (which will be described in step 6), the motor can quickly pull in the cord with a lot of force, 
 > + which may cause the user to be pulled down if they are holding the cord while doing this.
 > + So, as we mentioned, we recommend using a low weight and a short distance when setting up the machine before training. This will be covered in step 6, where we describe how to adjust the cord’s starting length.
+##
 
 
-## Step 6: "Change cord length"
+### Step 6: "Change cord length"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/ChangeDistans.png" alt="My Image" width="450" height="300"/> 
 >
 ##### IMPORTANT:
@@ -96,9 +101,10 @@ ___
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Decrease-cord.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Extend-Cord.png" alt="My Image" width="450" height="300"/> |
 >
 > The left picture shows how you can reel in the cord. The cord will reel in by the amount of centimeters chosen by the user, as explained above. The right picture shows how you can unreel the cord; it works the same way as we just explained, but in the opposite direction.
+##
 
 
-## Step 7: "Sine Function"
+### Step 7: "Sine Function"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Sine-Set-Freq.png" alt="My Image" width="450" height="300"/>
 > 
 > The picture above shows you how to pick a frequancy that will be used to create the sine wave. The frequency 𝑓 tells you how many cycles of the wave occur per second (i.e., how often the wave repeats in one second). The period 𝑇 is the time it takes for the wave to complete one full cycle. Since frequency and
@@ -122,9 +128,10 @@ ___
 > + The picture below explains the values (𝑇, min weight, max weight) used to create the sine wave.
 >
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Sine-Wave-Explain.PNG" alt="My Image" width="350" height="300"/>
+##
 
 
-## Step 8: "Linear function"
+### Step 8: "Linear function"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Lin-Set-Max-Time.png" alt="My Image" width="450" height="300"/>
 >
 > The linear function works by increasing the weight in a linear manner from the starting weight to the stop weight over the time set by the user. You can compare this to a reverse "drop set" often used by people working out in gyms. The best part is that you don’t need to stop the workout to change weights, as you have to do in a regular gym.
@@ -141,6 +148,8 @@ ___
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start-Linear-Function.png" alt="My Image" width="450" height="300"/>
 >
 > The picture above shows you how to turn the function on. You can turn it off by pressing the same checkbox again.
+##
+
 
 ## Step 9: "Record function"
 > Hello
