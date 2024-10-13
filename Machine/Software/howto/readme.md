@@ -47,6 +47,8 @@
 > |:------------:|:----------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Pick-Weight.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Set-Weight.png" alt="My Image" width="450" height="300"/> |
 >
+> #### IMPORTANT:
+> 
 > The left picture above shows where you pick the weight you want to use, we recomande you at the start pick a low weight around 5Kg to make sure you dont harm the mashine or yourself when setting up the machine. Pick the weight you want to use during your training when you are ready to start using the machine. The problems that can occur are:
 > + If you change the length of the cord, make it shorter, with the implemented functions (that will be described in step 6) the motor can pull in the cord in a fast way with much power wich can pull down the user if they are holding the cord while doing this.
 > + So as we say, we recomand a low weight and a small distance when setting up the machine before training, this will be taken up in step 6, the part where we describe how to change the cords starting length.
@@ -54,6 +56,8 @@
 ## Step 6: "Change cord length"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/ChangeDistans.png" alt="My Image" width="450" height="300"/> 
 >
+> #### IMPORTANT:
+> 
 > The picture above shows how you can change the reel in/ out distance of the cord. This means how much the cord will reel in/ out every time you press the '+' or '-' button, these buttons will be explained bellow. This is the distance I talked about in step 5. So a more detailed explination of harm the machine can do on the user is if you reel in the cord, lets say 10 cm, and have a heavy starting weight the motor will pull in the cord with a force of the starting weight and it will also do it fast. This can lead to the user being pulled down with a sudden force leading to injury. This might be fixed in a later version of our product, if so this will be updated.
 >
 > | Reel in the cord | Unreel the cord |
