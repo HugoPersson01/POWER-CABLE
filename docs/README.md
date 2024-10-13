@@ -1,5 +1,8 @@
 # This projects Documentations  
-> Describe what the diffrent files contains
+
+## Validation:
+![Image](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Validation.PNG)
+
 
 
 ## shared drive
