@@ -20,9 +20,9 @@ Our product comprises of two main components: hardware and software.
 
 ___ 
 
-## Whant to know even more?
+## Want to know even more?
 
-In the folder called "docs" you can find our rapport, lean canvas and more information about our product as a whole.
+In the folder called "docs" you can find our final report, lean canvas and more information about our product as a whole.
   + Click here to get there ➔ [Documentaions](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
 
 ### Shared drive (temp)
