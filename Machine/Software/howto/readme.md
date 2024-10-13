@@ -28,6 +28,8 @@ ___
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/>
 >
 > This is how the interface should look after starting the program.
+>
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -45,6 +47,7 @@ ___
 > If you pull the cord out, the red line will rise, and if you release the cord, the red line will fall.
 > The blue line represents the current weight the motor is applying.
 > These two lines provide real-time information that no other training equipment offers.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -57,6 +60,7 @@ ___
 > + Second fix, check that all cables are properly connected to the encoder, walloutlet or computer. If this also doesn't work try the final step.
 > + Third fix, close the program and disconnect the power supply from the wall outlet. Wait for a few seconds before reconnecting the power.
 > After performing these checks, press "Clear All Errors," as shown in the picture above, and repeat Step 2.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -67,6 +71,7 @@ ___
 > When you press the "turn on/off" button, it will toggle between being on and off.
 > You can easily see if the machine is on or off by looking at the blue line.
 > The picture above shows how it looks when you turn the machine on for the first time: the blue line starts off flat and then begins moving up and down.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -83,6 +88,7 @@ ___
 > + If you change the length of the cord and make it shorter using the implemented functions (which will be described in step 6), the motor can quickly pull in the cord with a lot of force, 
 > + which may cause the user to be pulled down if they are holding the cord while doing this.
 > + So, as we mentioned, we recommend using a low weight and a short distance when setting up the machine before training. This will be covered in step 6, where we describe how to adjust the cord’s starting length.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -101,6 +107,7 @@ ___
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Decrease-cord.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Extend-Cord.png" alt="My Image" width="450" height="300"/> |
 >
 > The left picture shows how you can reel in the cord. The cord will reel in by the amount of centimeters chosen by the user, as explained above. The right picture shows how you can unreel the cord; it works the same way as we just explained, but in the opposite direction.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -128,6 +135,8 @@ ___
 > + The picture below explains the values (𝑇, min weight, max weight) used to create the sine wave.
 >
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Sine-Wave-Explain.PNG" alt="My Image" width="350" height="300"/>
+>
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
@@ -148,11 +157,16 @@ ___
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start-Linear-Function.png" alt="My Image" width="450" height="300"/>
 >
 > The picture above shows you how to turn the function on. You can turn it off by pressing the same checkbox again.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
 
 ## Step 9: "Record function"
-> Hello
+> <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start-Recording.png" alt="My Image" width="450" height="300"/>
+>
+> The picture above shows how to start the record function. The other functons like, positions, set weight and so on are nor yet implemented. This part will be updaten when they are done.
+> During the recording you will get information about time, position and current weight. The data will be stored in a seprate file which can be opened to see the recorded data.
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 
 ___
 
