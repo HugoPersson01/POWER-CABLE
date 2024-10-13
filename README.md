@@ -3,7 +3,7 @@ ___
 # Power Cable: Weightles training equpment 
 We are five students pursuing a degree in Medical Engineering at KTH in Stockholm, Sweden, currently in our third year of study. 
 
-+ This product was part of a course we have called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
++ This product is part of a course we have called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
 
 
 ## About the product:
