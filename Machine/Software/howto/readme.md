@@ -1,8 +1,13 @@
 # How to use the UserInterface that is implemented in our code:
-> #### IMPORTANT: If you don’t feel like reading all of this, we want you to at least read steps 5 and 6 to avoid injuries to yourself or the machine.
-> + Get to step 5 by pressing here ➔ [Step 5](#step-5-set-weight).
-> 
-> ##### Note: In the pictures shown below, "buttons" and "checkboxes" used in the explained parts will be highlighted in light blue to indicate which buttons to press.
+
+___ 
+
+#### IMPORTANT: If you don’t feel like reading all of this, we want you to at least read steps 5 and 6 to avoid injuries to yourself or the machine. Get to step 5 by pressing here ➔ [Step 5](#step-5-set-weight).
+
+
+##### Note: In the pictures shown below, "buttons" and "checkboxes" used in the explained parts will be highlighted in light blue to indicate which buttons to press.
+
+___ 
 
 ## Step 1: "Start the program"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/>
