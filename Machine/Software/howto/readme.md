@@ -170,6 +170,6 @@ ___
 
 ___
 
-Thanks for reading! We hope this was useful, and we wish you a safe workout ahead.
+Thanks for reading! We hope this was useful.
 ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 
