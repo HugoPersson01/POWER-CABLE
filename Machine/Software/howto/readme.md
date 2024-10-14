@@ -25,9 +25,13 @@ The text includes the following 9 steps:
 ___
 
 ### Step 1: "Start the program"
-> <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/>
+> | Good conaction | Bad conaction |
+> |:--------------:|:-------------:|
+> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/No-conection.png" alt="My Image" width="450" height="300"/> |
 >
-> This is how the interface should look after starting the program.
+> The left picture shows how the interface should look after starting the program. The right picture shows how it will look when the conaction between the computer running the program and the machine is bad.
+
+> + Notice the missing data on the right pictures "info" box.
 >
 > ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
