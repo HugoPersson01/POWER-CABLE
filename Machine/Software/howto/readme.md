@@ -132,9 +132,6 @@ ___
 > 
 >
 > The left picture shows you how to start the sine wave function, and the right picture shows you how the graph will look when the sine wave function is in use.
-> + The picture below explains the values (𝑇, min weight, max weight) used to create the sine wave.
->
-> <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Sine-Wave-Explain.PNG" alt="My Image" width="350" height="300"/>
 >
 > ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
