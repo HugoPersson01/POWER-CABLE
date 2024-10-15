@@ -11,3 +11,6 @@ Here is the link for the force gauge we used ➔ [Force gauge](https://docs.rs-o
 
 ### Validation:
 ![Image](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Validation.PNG)
+
+### Lean canvas:
+![Image](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/LeanCanvas.png)
