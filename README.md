@@ -3,6 +3,8 @@ ___
 # Power Cable: Weightles training equpment 
 We are five students pursuing a degree in Medical Engineering at KTH in Stockholm, Sweden, currently in our third year of study. 
 
+The machine and code utilized in our work were originally developed by Linus Remahl, a research engineer at KTH. His expertise and support have been crucial throughout the process of calibrating and improving both the machine and the code.
+
 + This product is part of a course we have called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
 
 
@@ -27,7 +29,7 @@ In the folder called "docs" you will find our final report, Lean Canvas, and mor
 
 ___ 
 #### Contributors:
-+ The machine and code utilized in our work were originally developed by Linus Remahl, a research engineer at KTH. His expertise and support have been crucial throughout the process of calibrating and improving both the machine and the code.
+
 <a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
