@@ -27,6 +27,7 @@ In the folder called "docs" you will find our final report, Lean Canvas, and mor
 
 ___ 
 #### Contributors:
++ The machine and code utilized in our work were originally developed by Linus Remahl, a research engineer at KTH. His expertise and support have been crucial throughout the process of calibrating and improving both the machine and the code.
 <a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
