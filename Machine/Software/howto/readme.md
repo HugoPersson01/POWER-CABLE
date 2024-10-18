@@ -31,7 +31,7 @@ ___
 >
 > The left picture shows how the interface should look after starting the program. The right picture shows how it will look when the conaction between the computer running the program and the machine is bad.
 
-> + Notice the missing data on the right pictures "info" box.
+> + Notice the missing data on the right pictures `info` box.
 >
 > ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
@@ -42,7 +42,7 @@ ___
 > |:----------------:|:---------------------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Calibrate-In-Progress.png" alt="My Image" width="450" height="300"/> |
 >
-> To calibrate the machine, press the "Calibrate" button shown in the left picture.
+> To calibrate the machine, press the `Calibrate` button shown in the left picture.
 > During calibration, the motor will start rotating, pulling the cord inwards and then outwards, as shown in the right picture.
 > Notice the red line going down and then back up, this represents the inward and outward movement of the cord.
 >
@@ -63,7 +63,7 @@ ___
 > + First fix, ensure that the cable has enough room to move during the calibration process. If this doesn't work try next step.
 > + Second fix, check that all cables are properly connected to the encoder, walloutlet or computer. If this also doesn't work try the final step.
 > + Third fix, close the program and disconnect the power supply from the wall outlet. Wait for a few seconds before reconnecting the power.
-> After performing these checks, press "Clear All Errors," as shown in the picture above, and repeat Step 2.
+> After performing these checks, press `Clear All Errors`, as shown in the picture above, and repeat Step 2.
 > ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
 ##
 
@@ -72,7 +72,7 @@ ___
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Turn-On.png" alt="My Image" width="450" height="300"/>
 >
 > You can turn the machine on and off whenever you want. You will need to turn it on after you have calibrated the machine.
-> When you press the "turn on/off" button, it will toggle between being on and off.
+> When you press the `turn on/off` button, it will toggle between being on and off.
 > You can easily see if the machine is on or off by looking at the blue line.
 > The picture above shows how it looks when you turn the machine on for the first time: the blue line starts off flat and then begins moving up and down.
 > ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
@@ -101,7 +101,7 @@ ___
 >
 ##### IMPORTANT:
 > 
-> The picture above shows how you can change the reel in/out distance of the cord. This indicates how much the cord will reel in or out every time you press the '+' or '-' button; these buttons will be explained below.
+> The picture above shows how you can change the reel in/out distance of the cord. This indicates how much the cord will reel in or out every time you press the `+` or `-` button; these buttons will be explained below.
 > This is the distance I mentioned in step 5. A more detailed explanation of the potential harm the machine can cause to the user is as follows: if you reel in the cord, let's say by 10 cm, and have a heavy starting
 > weight, the motor will pull in the cord with a force equal to the starting weight, and it will do so quickly. This can lead to the user being pulled down with sudden force, potentially causing injury. This issue may be
 > addressed in a later version of our product; if so, this will be updated.
