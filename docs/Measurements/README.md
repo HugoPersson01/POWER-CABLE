@@ -12,7 +12,7 @@ ___
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data with equation 1/1.8:</strong></caption>
+                <caption><strong>Data with equation (1/1.8)⋅kg:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
@@ -54,7 +54,7 @@ ___
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data with equation (1/1.8)-1.7:</strong></caption>
+                <caption><strong>Data with equation ((1/1.8)⋅kg)-1.7:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
@@ -93,7 +93,7 @@ ___
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data with equation (1/1.8)-0.6:</strong></caption>
+                <caption><strong>Data with equation ((1/1.8)⋅kg)-0.6:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
