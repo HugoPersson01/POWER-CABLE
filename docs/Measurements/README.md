@@ -12,7 +12,7 @@ ___
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data:</strong></caption>
+                <caption><strong>Data with equation 1/1.8:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
@@ -54,7 +54,7 @@ ___
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data:</strong></caption>
+                <caption><strong>Data with equation (1/1.8)-1.7:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
@@ -87,13 +87,13 @@ ___
 ___ 
 
 
-# After Calibration 2:
+# After Calibration 2, FINAL:
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="padding: 10px;">
             <!-- Tabell -->
             <table style="border-collapse: collapse;">
-                <caption><strong>Data:</strong></caption>
+                <caption><strong>Data with equation (1/1.8)-0.6:</strong></caption>
                 <tr>
                     <th>Computer Max Data</th>
                     <th>Sensor Max Data</th>
