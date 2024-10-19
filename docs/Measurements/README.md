@@ -24,7 +24,7 @@ ___
                 <tr><td>15.93</td><td>18.04</td></tr>
                 <tr><td>18.97</td><td>20.82</td></tr>
                 <tr><td>22.03</td><td>21.72</td></tr>
-                <tr><td>24.91</td><td>28.46</td></tr>
+                <tr><td>25.91</td><td>28.46</td></tr>
                 <tr><td>28.01</td><td>30.56</td></tr>
                 <tr><td>31.01</td><td>33.60</td></tr>
                 <tr><td>34.10</td><td>35.92</td></tr>
