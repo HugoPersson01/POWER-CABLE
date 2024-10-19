@@ -116,7 +116,7 @@ ___
         </td>
         <td style="padding: 10px;">
             <!-- Bild change this-->
-            <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Final-Calibration.png" alt="My Image" width="600" height="400" style="border: 1px solid black;"/>
+            <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Final-Calibration.png" alt="My Image" width="600" height="350" style="border: 1px solid black;"/>
         </td>
     </tr>
 </table>
