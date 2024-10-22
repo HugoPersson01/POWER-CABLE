@@ -1,12 +1,12 @@
 # The files💻📖:
 
-### NotoSerifCJKjp-Medium.otf
+> ### 1️⃣ NotoSerifCJKjp-Medium.otf
 > - This file contains the font that is used in the user interface.
 
-### forcething.py
+> ### 2️⃣ forcething.py
 > - This file contains the program that is used to controll the machine and the user interface is implemented in this code.
 
-### nogui.py
+> ### 3️⃣ nogui.py
 > - This file contains the program that is used to controll the machine and the user interface is NOT implemented in this code.
 
 ### Code Explination:
