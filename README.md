@@ -49,11 +49,13 @@ Hugo Persson: hugoper@kth.se
 </a>
 
 
+
 Adam Fabricius-Hansen: adamfh@kth.se
 
 <a href="https://github.com/Adamfabricius">
     <img src="https://avatars.githubusercontent.com/u/179829980?v=4" alt="Adam Fabricius" width="80" style="border-radius: 50%;" />
 </a>
+
 
 
 Linnea Edwall: linneaed@kth.se
@@ -63,11 +65,13 @@ Linnea Edwall: linneaed@kth.se
 </a>
 
 
+
 Caspar Alhadeff: alhadeff@kth.se
 
 <a href="https://github.com/Caspar-Alhadeff">
     <img src="https://avatars.githubusercontent.com/u/179829359?v=4" alt="Caspar Alhadeff" width="80" style="border-radius: 50%;" />
 </a>
+
 
 
 Melissa Yasar: melissay@kth.se
