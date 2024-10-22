@@ -14,7 +14,7 @@ ___
             <table style="border-collapse: collapse;">
                 <caption><strong>Data with equation (1/1.8)⋅kg:</strong></caption>
                 <tr>
-                    <th>Computer Max Data</th>
+                    <th>Computer Max Data</th> 
                     <th>Sensor Max Data</th>
                 </tr>
                 <tr><td>3.99</td><td>5.70</td></tr>
