@@ -34,6 +34,12 @@ In the folder called "docs" you will find our final report, Lean Canvas, and mor
   + #### Click here to get there &nbsp; ➡️ &nbsp; [Docs](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
 
 ___ 
+### Repository map🗺️:
+
+![Färgruta med text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/3dModell-PowerCable.png)
+
+___
+
 ## 👥 &nbsp; Contributors:
 
 <a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/graphs/contributors">
