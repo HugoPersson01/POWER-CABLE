@@ -44,6 +44,9 @@ ___
 Hugo Persson: 
 https://github.com/HugoPersson01
 
+
+[![Hugo Persson] (https://avatars.githubusercontent.com/u/179828570?v=4)](https://github.com/HugoPersson01)
+
 <a href="https://github.com/HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HugoPersson01/Project-Course-2-KTH-Digital-Training-Equipment" />
 </a>
