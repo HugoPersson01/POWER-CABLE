@@ -42,43 +42,35 @@ ___
 ## 👥 &nbsp; Contributors:
 
 
-Hugo Persson: hugoper@kth.se
+> #### Hugo Persson: hugoper@kth.se
+> 
+> <a href="https://github.com/HugoPersson01">
+>     <img src="https://avatars.githubusercontent.com/u/179828570?v=4" alt="Hugo Persson" width="80" style="border-radius: 50%;" />
+> </a>
 
-<a href="https://github.com/HugoPersson01">
-    <img src="https://avatars.githubusercontent.com/u/179828570?v=4" alt="Hugo Persson" width="80" style="border-radius: 50%;" />
-</a>
+> #### Adam Fabricius-Hansen: adamfh@kth.se
+> 
+> <a href="https://github.com/Adamfabricius">
+>    <img src="https://avatars.githubusercontent.com/u/179829980?v=4" alt="Adam Fabricius" width="80" style="border-radius: 50%;" />
+> </a>
 
+> #### Linnea Edwall: linneaed@kth.se
+> 
+> <a href="https://github.com/linneaed">
+>     <img src="https://avatars.githubusercontent.com/u/179829345?v=4" alt="Linnea Ed" width="80" style="border-radius: 50%;" />
+> </a>
 
+> #### Caspar Alhadeff: alhadeff@kth.se
+> 
+> <a href="https://github.com/Caspar-Alhadeff">
+>     <img src="https://avatars.githubusercontent.com/u/179829359?v=4" alt="Caspar Alhadeff" width="80" style="border-radius: 50%;" />
+> </a>
 
-Adam Fabricius-Hansen: adamfh@kth.se
-
-<a href="https://github.com/Adamfabricius">
-    <img src="https://avatars.githubusercontent.com/u/179829980?v=4" alt="Adam Fabricius" width="80" style="border-radius: 50%;" />
-</a>
-
-
-
-Linnea Edwall: linneaed@kth.se
-
-<a href="https://github.com/linneaed">
-    <img src="https://avatars.githubusercontent.com/u/179829345?v=4" alt="Linnea Ed" width="80" style="border-radius: 50%;" />
-</a>
-
-
-
-Caspar Alhadeff: alhadeff@kth.se
-
-<a href="https://github.com/Caspar-Alhadeff">
-    <img src="https://avatars.githubusercontent.com/u/179829359?v=4" alt="Caspar Alhadeff" width="80" style="border-radius: 50%;" />
-</a>
-
-
-
-Melissa Yasar: melissay@kth.se
-
-<a href="https://github.com/Melissayasar">
-    <img src="https://avatars.githubusercontent.com/u/179872757?v=4" alt="Melissa Yasar" width="80" style="border-radius: 50%;" />
-</a>
+> #### Melissa Yasar: melissay@kth.se
+> 
+> <a href="https://github.com/Melissayasar">
+>    <img src="https://avatars.githubusercontent.com/u/179872757?v=4" alt="Melissa Yasar" width="80" style="border-radius: 50%;" />
+> </a>
 
 
 + #### Go to Linus github profile here &nbsp; ➡️ &nbsp; [Linus](https://github.com/linusreM).
