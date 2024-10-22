@@ -1,4 +1,4 @@
-# This projects Hardware and Software
+# 🖥️ This projects Hardware and Software
 ___
 
 ### Hardware: 
