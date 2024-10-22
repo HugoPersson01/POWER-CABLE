@@ -1,10 +1,10 @@
-#  This projects Hardware and Software
+#  This projects Hardware and Software 🛠️ 💻
 ___
 
-### :vhs:	Hardware: 
+### 🛠️ :vhs:	Hardware: 
 In the folder called "Hardware" you can find information about the hardware used in our machine. The information you will find is the price of the components and an ide of how it looks.
 
-###  🖥️Software:
+###  🖥️ Software:
 The folder called "software" contains our source code files and an explination of how the code works. You will also find an detailed explination of how to use our User Interface that 
 is impleented in our code.
 
