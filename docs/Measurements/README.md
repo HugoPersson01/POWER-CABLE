@@ -6,7 +6,7 @@ The measurements were conducted during dynamic movements at varying paces. Despi
 
 ___
 
-# 🥉 &nbsp; Before Calibration:
+## 🥉 &nbsp; Before Calibration:
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="padding: 10px;">
@@ -48,7 +48,7 @@ ___
 
 ___
 
-# 🥈 &nbsp; After Calibration 1:
+## 🥈 &nbsp; After Calibration 1:
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="padding: 10px;">
@@ -87,7 +87,7 @@ ___
 ___ 
 
 
-# 🥇 &nbsp; After Calibration 2, FINAL:
+## 🥇 &nbsp; After Calibration 2, FINAL:
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="padding: 10px;">
