@@ -2,7 +2,7 @@
 ___
 
 ### Hardware: 
-The folder called "Hardware" you can find information about the hardware used in our machine. The information you will find is the price of the components and an ide of how it looks.
+In the folder called "Hardware" you can find information about the hardware used in our machine. The information you will find is the price of the components and an ide of how it looks.
 
 ### Software:
 The folder called "software" contains our source code files and an explination of how the code works. You will also find an detailed explination of how to use our User Interface that 
