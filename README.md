@@ -36,8 +36,7 @@ In the folder called "docs" you will find our final report, Lean Canvas, and mor
 ___ 
 ### Repository map🗺️:
 
-![Färgruta med text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/3dModell-PowerCable.png)
-
+![Färgruta med text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/repositoryMap.PNG)
 ___
 
 ## 👥 &nbsp; Contributors:
