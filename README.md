@@ -4,7 +4,7 @@ ___
 We are five students pursuing a degree in Medical Engineering at KTH in Stockholm, Sweden, currently in our third year of study📚. 
 
 ℹ️ &nbsp; The machine and code utilized in our work were originally developed by Linus Remahl, a research engineer at KTH. His expertise and support have been crucial throughout the process of calibrating and improving both the machine and the code.
-#### Go to Linus github profile here ➔ [Linus](https://github.com/linusreM).
+#### Go to Linus github profile here &nbsp; ➡️ &nbsp; [Linus](https://github.com/linusreM).
 
 + This product is part of a course we have called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
 
@@ -26,7 +26,7 @@ ___
 ## 📜 &nbsp; Want to know even more?
 
 In the folder called "docs" you will find our final report, Lean Canvas, and more information about our product as a whole.
-  + Click here to get there &nbsp; ➡️ &nbsp; [📂](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
+  + Click here to get there &nbsp; ➡️ &nbsp; [Docs](https://github.com/HugoPersson01/POWER-CABLE/tree/main/docs).
 
 ___ 
 ## 👥 &nbsp; Contributors:
