@@ -1,6 +1,5 @@
 # This projects Documentations &nbsp; 📝
 
-Read our documentation here or download the files above to read them outside of Github.
 
 ## 🤷 &nbsp; Method:
 ![Image](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/Method.png)
