@@ -1,26 +1,27 @@
-# How to use the UserInterface that is implemented in our code:
+# How to use the UserInterface that is implemented in our code 🤔:
 
 ___ 
 
-#### IMPORTANT: If you don’t feel like reading all of this, we want you to at least read steps 5 and 6 to avoid injuries to yourself or the machine. Get to step 5 by pressing here ➔ [Step 5](#step-5-set-weight).
+#### ⚠️ &nbsp; IMPORTANT: If you don’t feel like reading all of this, we want you to at least read steps 5 and 6 to avoid injuries to yourself or the machine. Get to step 5 by pressing here &nbsp; ➡️ &nbsp; [Step 5](#step-5-set-weight)
 
 
 ##### Note: In the pictures shown below, the "buttons" and "checkboxes" used in the explained sections will be highlighted in light blue to indicate which buttons to press.
 
 ___ 
+### ℹ️ &nbsp; Info:
 
 The following text will describe the process of starting the machine using our User Interface, as well as steps 6, 7, 8, and 9, which are optional functions you can use to set up the machine and get a varied and fun workout. We highly recommend following the steps below to ensure the correct and safe use of the machine.
 The text includes the following 9 steps:
 
-+ ##### Step 1:  "Start the program": &nbsp; Get there ➔ [Step 1: "Start the program"](#step-1-start-the-program).
-+ ##### Step 2:  "Calibrate the machine": &nbsp; Get there ➔ [Step 2: "Calibrate the machine"](#step-2-calibrate-the-machine).
-+ ##### Step 3:  "Clear errors": &nbsp; Get there ➔ [Step 3: "Clear errors"](#step-3-clear-errors).
-+ ##### Step 4:  "Turn on/off": &nbsp; Get there ➔ [Step 4: "Turn on/off"](#step-4-turn-onoff).
-+ ##### Step 5:  "Set weight": &nbsp; Get there ➔ [Step 5: "Set weight"](#step-5-set-weight).
++ ##### Step 1:  "Start the program": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 1: "Start the program"](#step-1-start-the-program).
++ ##### Step 2:  "Calibrate the machine": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 2: "Calibrate the machine"](#step-2-calibrate-the-machine).
++ ##### Step 3:  "Clear errors": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 3: "Clear errors"](#step-3-clear-errors).
++ ##### Step 4:  "Turn on/off": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 4: "Turn on/off"](#step-4-turn-onoff).
++ ##### Step 5:  "Set weight": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 5: "Set weight"](#step-5-set-weight).
 + ##### Step 6:  "Change cord length": &nbsp; Get there ➔ [Step 6: "Change cord length"](#step-6-change-cord-length).
-+ ##### Step 7:  "Sine function": &nbsp; Get there ➔ [Step 7: "Sine function"](#step-7-sine-function).
-+ ##### Step 8:  "Linear function": &nbsp; Get there ➔ [Step 8: "Linear function"](#step-8-linear-function).
-+ ##### Step 9:  "Record function": &nbsp; Get there ➔ [Step 9: "Record function"](#step-9-record-function)
++ ##### Step 7:  "Sine function": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 7: "Sine function"](#step-7-sine-function).
++ ##### Step 8:  "Linear function": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 8: "Linear function"](#step-8-linear-function).
++ ##### Step 9:  "Record function": &nbsp; Get there  &nbsp; ➡️ &nbsp; [Step 9: "Record function"](#step-9-record-function)
 
 ___
 
@@ -30,10 +31,10 @@ ___
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/No-conection.png" alt="My Image" width="450" height="300"/> |
 >
 > The left picture shows how the interface should look after starting the program. The right picture shows how it will look when the conaction between the computer running the program and the machine is bad.
-
+> 
 > + Notice the missing data on the right pictures `info` box.
 >
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -51,7 +52,7 @@ ___
 > If you pull the cord out, the red line will rise, and if you release the cord, the red line will fall.
 > The blue line represents the current weight the motor is applying.
 > These two lines provide real-time information that no other training equipment offers.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -64,7 +65,7 @@ ___
 > + Second fix, check that all cables are properly connected to the encoder, walloutlet or computer. If this also doesn't work try the final step.
 > + Third fix, close the program and disconnect the power supply from the wall outlet. Wait for a few seconds before reconnecting the power.
 > After performing these checks, press `Clear All Errors`, as shown in the picture above, and repeat Step 2.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -75,7 +76,7 @@ ___
 > When you press the `turn on/off` button, it will toggle between being on and off.
 > You can easily see if the machine is on or off by looking at the blue line.
 > The picture above shows how it looks when you turn the machine on for the first time: the blue line starts off flat and then begins moving up and down.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -84,7 +85,7 @@ ___
 > |:------------:|:----------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Pick-Weight.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Set-Weight.png" alt="My Image" width="450" height="300"/> |
 > 
-##### IMPORTANT:
+##### ⚠️ &nbsp; IMPORTANT:
 > 
 > The left picture above shows where you select the weight you want to use. We recommend starting with a low weight, around 5 kg,
 > to make sure you don’t harm the machine or yourself when setting it up. Choose the weight you want to use during your workout when you're ready to start using the machine.
@@ -92,14 +93,14 @@ ___
 > + If you change the length of the cord and make it shorter using the implemented functions (which will be described in step 6), the motor can quickly pull in the cord with a lot of force, 
 > + which may cause the user to be pulled down if they are holding the cord while doing this.
 > + So, as we mentioned, we recommend using a low weight and a short distance when setting up the machine before training. This will be covered in step 6, where we describe how to adjust the cord’s starting length.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
 ### Step 6: "Change cord length"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/ChangeDistans.png" alt="My Image" width="450" height="300"/> 
 >
-##### IMPORTANT:
+##### ⚠️ &nbsp; IMPORTANT:
 > 
 > The picture above shows how you can change the reel in/out distance of the cord. This indicates how much the cord will reel in or out every time you press the `+` or `-` button; these buttons will be explained below.
 > This is the distance I mentioned in step 5. A more detailed explanation of the potential harm the machine can cause to the user is as follows: if you reel in the cord, let's say by 10 cm, and have a heavy starting
@@ -111,7 +112,7 @@ ___
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Decrease-cord.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Extend-Cord.png" alt="My Image" width="450" height="300"/> |
 >
 > The left picture shows how you can reel in the cord. The cord will reel in by the amount of centimeters chosen by the user, as explained above. The right picture shows how you can unreel the cord; it works the same way as we just explained, but in the opposite direction.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -137,7 +138,7 @@ ___
 >
 > The left picture shows you how to start the sine wave function, and the right picture shows you how the graph will look when the sine wave function is in use.
 >
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -158,7 +159,7 @@ ___
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Start-Linear-Function.png" alt="My Image" width="450" height="300"/>
 >
 > The picture above shows you how to turn the function on. You can turn it off by pressing the same checkbox again.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 ##
 
 
@@ -167,10 +168,10 @@ ___
 >
 > The picture above shows how to start the record function. The other functons like, positions, set weight and so on are nor yet implemented. This part will be updaten when they are done.
 > During the recording you will get information about time, position and current weight. The data will be stored in a seprate file which can be opened to see the recorded data.
-> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+> ##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 
 ___
 
-Thanks for reading! We hope this was useful.
-##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code).
+Thanks for reading! We hope this was useful😃.
+##### [Back to top](#how-to-use-the-userinterface-that-is-implemented-in-our-code-).
 
