@@ -1,4 +1,4 @@
-# This projects Documentations &nbsp; 📝
+# This projects Documentations 📝
 
 
 ## 🤷 &nbsp; Method:
