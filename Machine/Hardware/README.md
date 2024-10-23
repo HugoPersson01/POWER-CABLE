@@ -30,3 +30,6 @@ Press the Sketchfab logo bellow to se a 3D rendering of our product!
 </a>
 
 ℹ️ &nbsp; Sketchfab is a website used for uploading 3D renderings for other people to se.
+
+## 📸 &nbsp; Video:
+### If you would like to see a short video of our product in use click this link &nbsp; ➡️ &nbsp; [Video](https://drive.google.com/file/d/19Ub22zPSKozM10Ia_RXlga2XJiO8i-JZ/view?usp=share_link)
