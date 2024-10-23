@@ -1,6 +1,7 @@
 # Power Cable - Hardware 🔨:
 
 The following parts are for those who want to build their own machine. These are the components used in Generation 2 of the Power Cable.
+
 ## 💰 &nbsp; Pricing:
 #### [Odrive S1](https://eu.odriverobotics.com/shop/odrive-s1) (Power pads: Screw terminals)
 > 149.00 €
@@ -20,9 +21,16 @@ The following parts are for those who want to build their own machine. These are
 #### Total:
 > 335.00 € 
 
+
 ___ 
 
-### 👏 &nbsp; 3D Rendering:
+
+## 📸 &nbsp; Video:
+#### If you would like to see a short video of our product in use click this link &nbsp; ➡️ &nbsp; [Video](https://drive.google.com/file/d/19Ub22zPSKozM10Ia_RXlga2XJiO8i-JZ/view?usp=share_link)
+
+---
+
+## 👏 &nbsp; 3D Rendering:
 Press the Sketchfab logo bellow to se a 3D rendering of our product!
 
 <a href = "https://sketchfab.com/3d-models/projekt3d-6b6fb44155ed42e9aa5e08ebe1b3ae99">
@@ -31,5 +39,4 @@ Press the Sketchfab logo bellow to se a 3D rendering of our product!
 
 ℹ️ &nbsp; Sketchfab is a website used for uploading 3D renderings for other people to se.
 
-## 📸 &nbsp; Video:
-### If you would like to see a short video of our product in use click this link &nbsp; ➡️ &nbsp; [Video](https://drive.google.com/file/d/19Ub22zPSKozM10Ia_RXlga2XJiO8i-JZ/view?usp=share_link)
+---
