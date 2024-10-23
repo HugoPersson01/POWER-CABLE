@@ -11,7 +11,7 @@ ___
 #### 🥇 &nbsp; The machine and code utilized in our work were originally developed by Linus Remahl, a research engineer at KTH. His expertise and support have been crucial throughout the process of calibrating and improving both the machine and the code. 
 + #### Go to Linus github profile here &nbsp; ➡️ &nbsp; [Linus](https://github.com/linusreM).
 
-#### 🥉 &nbsp; This product is part of a course we have called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
+#### 🥉 &nbsp; This product is part of a course called "Tehcology and Health, Project Course" where we get to invent/improve a product. 
 
 --- 
 
