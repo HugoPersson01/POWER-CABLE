@@ -80,12 +80,11 @@ ___
 ##
 
 
-### Step 5: "Set weight"
+### ⚠️ &nbsp; Step 5: "Set weight"
 > | Chose weight | Set weight |
 > |:------------:|:----------:|
 > | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Pick-Weight.png" alt="My Image" width="450" height="300"/> | <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/Set-Weight.png" alt="My Image" width="450" height="300"/> |
 > 
-##### ⚠️ &nbsp; IMPORTANT:
 > 
 > The left picture above shows where you select the weight you want to use. We recommend starting with a low weight, around 5 kg,
 > to make sure you don’t harm the machine or yourself when setting it up. Choose the weight you want to use during your workout when you're ready to start using the machine.
@@ -97,10 +96,9 @@ ___
 ##
 
 
-### Step 6: "Change cord length"
+### ⚠️ &nbsp; Step 6: "Change cord length"
 > <img src="https://github.com/HugoPersson01/POWER-CABLE/blob/main/Machine/Software/howto/Pictures/ChangeDistans.png" alt="My Image" width="450" height="300"/> 
 >
-##### ⚠️ &nbsp; IMPORTANT:
 > 
 > The picture above shows how you can change the reel in/out distance of the cord. This indicates how much the cord will reel in or out every time you press the `+` or `-` button; these buttons will be explained below.
 > This is the distance I mentioned in step 5. A more detailed explanation of the potential harm the machine can cause to the user is as follows: if you reel in the cord, let's say by 10 cm, and have a heavy starting
