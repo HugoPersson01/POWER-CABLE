@@ -1,6 +1,6 @@
 ![Färgruta med text](https://github.com/HugoPersson01/POWER-CABLE/blob/main/pictures/3dModell-PowerCable.png)
 ___ 
-# Power Cable: Weightles training equpment 🦾
+# Power Cable: Weightles training equipment 🦾
 
 ### ℹ️ &nbsp; Information:
 
