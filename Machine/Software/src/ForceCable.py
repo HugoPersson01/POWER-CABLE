@@ -8,7 +8,6 @@ import numpy as np
 
 import os
 
-
 class SineModulation:
     frequency = 0.0
     amplitude = 0.0
@@ -32,21 +31,18 @@ applied_weight_data = [1.0]
 
 timestart = False
 
-
-
 dpg.create_context()
 motor = None
 print("finding an odrive...")
 try:
     motor = odrive.find_any(timeout = 0.1)
 except:
-    pass
+    pass    
 
 def calibrate():
     motor.axis1.requested_state = AXIS_STATE_FULL_CALIBRATION_SEQUENCE
 
 def turn_on():
-
     if(motor.axis1.current_state != AXIS_STATE_CLOSED_LOOP_CONTROL):
         print("AXIS_STATE -> CLOSED_LOOP_CONTROL")
         motor.axis1.requested_state = AXIS_STATE_CLOSED_LOOP_CONTROL
@@ -57,8 +53,15 @@ def turn_on():
 def clear_errors():
     motor.clear_errors()
 
+gloabl_kg = 0.0
+
 def set_force_kg(kg):
-    motor.axis1.motor.config.current_lim = kg*kg_to_current
+    global gloabl_kg
+    global_kg = kg
+    if (calibrated_kg_to_current(kg) <= 0):
+        motor.axis1.motor.config.current_lim = 0
+    else:
+        motor.axis1.motor.config.current_lim = calibrated_kg_to_current(kg)
 
 def move_to(position):
     motor.axis1.controller.input_pos = position
@@ -70,13 +73,13 @@ def get_current_position():
     return motor.axis1.encoder.pos_estimate
 
 def get_max_force():
-    return motor.axis1.motor.config.current_lim / kg_to_current
+    return convertCurrentToKg()
 
 def get_current_force():
-    return motor.axis1.motor.current_control.Iq_measured / kg_to_current
+    return (motor.axis1.motor.current_control.Iq_measured + 0.6)/ kg_to_current
 
 def get_set_force():
-    return motor.axis1.motor.config.current_lim / kg_to_current
+    return convertCurrentToKg()   # inversen av den funktionen, byt till x
 
 def set_force_button():
     set_force_kg(dpg.get_value("kg_input_double"))
@@ -154,9 +157,13 @@ def start_linear():
     else:
         print("linear function stop...")
         dpg.set_item_label("Linear_check", "Start function")
-        
 
+def calibrated_kg_to_current(inmatatKg):
+    new_kg_to_current = ((inmatatKg*kg_to_current) - 0.6)
+    return new_kg_to_current
 
+def convertCurrentToKg():
+    return ((motor.axis1.motor.config.current_lim + 0.6)/kg_to_current)
 
 def calculate_K():
     start_value = dpg.get_value("Start_value")
@@ -173,17 +180,14 @@ def run_linear_function(Start_value, Max_Time):
         motor.axis1.motor.config.current_lim = (((calculate_K() * linear_time) + Start_value) * kg_to_current)   
         print(f"Linear time: {linear_time:.6f} seconds")
  
-
 def time_controll():
     global start_time, timestart
     timestart = not timestart
     if timestart:
         start_time = time.time()
-        
     else:
         pass
     return start_time
-    
     
 def move_increment_positive():
     increment = dpg.get_value("move_increment")
@@ -270,7 +274,6 @@ with dpg.window(label="Linear", tag="linear_window"):
     dpg.add_input_double(label="Start Kg", tag="Start_value", default_value=0.0)
     dpg.add_input_double(label="Max Kg", tag="Stop_value", default_value=10.0)
 
-
 dpg.set_item_pos("info_window", [435, 10])
 dpg.set_item_pos("record_window", [650, 10])
 dpg.set_item_pos("reel_window", [650, 190])
@@ -310,7 +313,6 @@ with dpg.window(label="Status", tag="win"):
         # series belong to a y axis
         dpg.add_line_series(np.arange(0.0,len(applied_weight_data)),applied_weight_data, label="Applied Weight", parent="y_axis", tag="weight_series")
         dpg.add_line_series(np.arange(0.0,len(position_data)),position_data, label="Position", parent="y_axis", tag="position_series")
-
 
 dpg.create_viewport(title='Kraftkabel test', width=835, height=600)
 dpg.setup_dearpygui()
